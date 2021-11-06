@@ -14,8 +14,6 @@ Por um curto período atuei com segurança da informação para um grande projet
 
 Foi incrível conhecer diferentes áreas da TI. Cada uma delas me ajudou a entender um pouquinho de todo o universo de nossa área e a importância de cada um delas na construção de soluções simples ou complexas.
 
-Sou estudante, entusiasta de tecnologia, otaku, diácono e o frontend é o meu atual foco nos estudos.
-
 <!--
 **gonribeiro/gonribeiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
