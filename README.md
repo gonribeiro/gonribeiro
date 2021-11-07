@@ -1,18 +1,14 @@
-### Olá pessoal 👋
+### Olá Mundo! 👋
+Sou líder de time TI e desenvolvedor fullstack.
 
-Atualmente sou líder do time TI e desenvolvedor fullstack no LADETEC/IQ/UFRJ.
-
-Como líder procuro cuidar das pessoas que formam a equipe, orientando e auxiliando nos desafios.
-
-Na área de desenvolvimento procuro analisar os processos dos setores que atuam na empresa para propor, documentar e desenvolver soluções.
-
-Amo Laravel (é o framework mais incrível que já pude trabalhar). Também tenho conhecimentos com .NET e ReactJS.
-
-Antes de atuar como desenvolvedor, trabalhei como administrador de servidores onde elevei a maturidade da empresa em que atuo, propondo, cotando e conquistando os gestores a adquirir equipamentos adequados, virtualizando os serviços, garantindo backups, redundância e monitoramento.
-
-Por um curto período atuei com segurança da informação para um grande projeto da empresa.
+- Como líder procuro cuidar das pessoas que formam a equipe, orientando e auxiliando nos desafios.
+- Na área de desenvolvimento procuro analisar os processos dos setores que atuam na empresa para propor, documentar e desenvolver soluções.
+- Antes de atuar como desenvolvedor, trabalhei como administrador de servidores onde elevei a maturidade da empresa, propondo e conquistando equipamentos adequados, virtualizando os serviços, garantindo backups, redundância e monitoramento.
+- Por um curto período atuei com segurança da informação para um grande projeto.
 
 Foi incrível conhecer diferentes áreas da TI. Cada uma delas me ajudou a entender um pouquinho a importância de cada uma para a construção de soluções focando a excelência da qualidade.
+
+Amo Laravel (é o framework mais incrível que já trabalhei). Também tenho conhecimentos com .NET e ReactJS.
 
 <!--
 **gonribeiro/gonribeiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
