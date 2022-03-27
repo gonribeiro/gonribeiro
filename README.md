@@ -8,13 +8,12 @@ Sou líder de time TI e desenvolvedor fullstack.
 
 Foi incrível conhecer diferentes áreas da TI. Cada uma delas me ajudou a entender um pouquinho a importância de cada uma para a construção de soluções focando a excelência da qualidade.
 
-Amo Laravel (é o framework mais incrível que já trabalhei). Também tenho conhecimentos com .NET e ReactJS.
-
-<div align="center">
+Laravel é o framework que mais utilizo em meu atual trabalho. Também tenho conhecimentos com React, NodeJs e .NET.
+<!--<div align="center">
   <a href="https://github.com/Ricmaloy">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gonribeiro&layout=compact&langs_count=7&theme=react&hide_border=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gonribeiro&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true"/>
-</div>
+</div>-->
 <p align="center">
   <img alt="Coding" height="444em" src=".github/22b22287602523.5dbd29081561d.gif">
 </p>
