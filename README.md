@@ -1,14 +1,14 @@
 ### Olá Mundo! 👋
 Sou líder de time TI e desenvolvedor fullstack.
 
-- Como líder procuro cuidar das pessoas que formam a equipe, orientando e auxiliando nos desafios.
-- Na área de desenvolvimento procuro analisar os processos dos setores que atuam na empresa para propor, documentar e desenvolver soluções.
-- Antes de atuar como desenvolvedor, trabalhei como administrador de servidores onde elevei a maturidade da empresa, propondo e conquistando equipamentos adequados, virtualizando os serviços, garantindo backups, redundância e monitoramento.
-- Por um curto período atuei com segurança da informação para um grande projeto.
+Graduado em Análise e Desenvolvimento de Sistemas, MBA em Segurança da Informação e MIT em Engenharia de Software .NET.
 
-Foi incrível conhecer diferentes áreas da TI. Cada uma delas me ajudou a entender um pouquinho a importância de cada uma para a construção de soluções focando a excelência da qualidade.
+Atualmente como Gerente de TI do LADETEC e Laboratórios Associados do Instituto de Química/UFRJ.
 
-Laravel é o framework que mais utilizo em meu atual trabalho. Também tenho conhecimentos com React, NodeJs e .NET.
+Experiência em diferentes áreas de TI, tendo principais atividades Gestão de Projetos, Desenvolvimento de Programas, Administração de Servidores e Redes.
+
+Colaboração em muitos projetos, em destaque a participação nos Jogos Olímpicos e Paralímpicos Rio2016 e acreditação do Laboratório Brasileiro de Controle de Dopagem pela Agência Mundial Antidoping.
+
 <!--<div align="center">
   <a href="https://github.com/Ricmaloy">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gonribeiro&layout=compact&langs_count=7&theme=react&hide_border=true"/>
