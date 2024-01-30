@@ -1,13 +1,17 @@
 ### Olá Mundo! 👋
-Sou líder de time TI e desenvolvedor fullstack.
-
 Graduado em Análise e Desenvolvimento de Sistemas, MBA em Segurança da Informação e MIT em Engenharia de Software .NET.
 
-Atualmente como Gerente de TI do LADETEC e Laboratórios Associados do Instituto de Química/UFRJ.
+Atuação como gerente de TI e gerente de infraestrutura do Laboratório Brasileiro de Controle de Dopagem (LBCD) nos Jogos Olímpicos e Paralímpicos Rio2016 e na acreditação pela Agência Mundial Antidoping.
 
-Experiência em diferentes áreas de TI, tendo principais atividades Gestão de Projetos, Desenvolvimento de Programas, Administração de Servidores e Redes.
+Responsável pela orientação e treinamento da equipe em projetos de desenvolvimento, infraestrutura e segurança cibernética.
 
-Colaboração em muitos projetos, em destaque a participação nos Jogos Olímpicos e Paralímpicos Rio2016 e acreditação do Laboratório Brasileiro de Controle de Dopagem pela Agência Mundial Antidoping.
+Desenvolvedor full stack PHP/Laravel e JS/JQuery, atuando no levantamento de requisitos, documentação, modelagem do banco de dados, programação e testes.
+
+Conhecimento com outras linguagens e frameworks (NodeJS, ReactJS/Native e .NET) em projetos de estudos particulares. 
+
+Responsável pela implementação do cluster de servidores e virtualização dos serviços da LADETEC em storage local. Conhecimento com Firewall, Controlador de Domínio, Backups, monitoramento com Zabbix entre outros.
+
+Tenho foco em segurança cibernética, orientando a equipe sobre sua importância e criando objetivos, afim de reduzir os riscos.
 
 <!--<div align="center">
   <a href="https://github.com/Ricmaloy">
