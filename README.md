@@ -3,15 +3,12 @@ Graduado em Análise e Desenvolvimento de Sistemas, MBA em Segurança da Informa
 
 Atuação como gerente de TI e gerente de infraestrutura do Laboratório Brasileiro de Controle de Dopagem (LBCD) nos Jogos Olímpicos e Paraolímpicos Rio2016 e na acreditação pela Agência Mundial Antidoping.
 
-Desenvolvedor full stack PHP/Laravel e JS/JQuery, atuando no levantamento de requisitos, documentação, modelagem do banco de dados, programação e testes.
+Ao longo da minha trajetória, atuei em diversas áreas da TI, adquirindo uma ampla experiência. Comecei prestando suporte técnico a computadores, incluindo aqueles integrados a equipamentos de análise química da Agilent, Leco, Waters e Thermo. Posteriormente, assumi a administração de servidores, onde implementei diversos serviços que antes não existiam ou eram terceirizados, como virtualização, firewall, controlador de domínio, backups, Zabbix, Sitrad, entre outros.
 
-Conhecimento com outras linguagens e frameworks (NodeJS, ReactJS/Native e .NET) em projetos de estudos particulares.
+Na minha carreira como desenvolvedor, liderei a migração dos sistemas legados, que, embora ainda recebessem novas funcionalidades, não tinham atualizações de pacotes, linguagens e sistemas operacionais, o que comprometia a qualidade das entregas. Para reverter essa situação, adotei o Laravel como framework e promovi o uso de boas práticas de desenvolvimento, como código limpo, versionamento, monitoramento e automação.
 
-Responsável pela orientação e treinamento da equipe em projetos de desenvolvimento, infraestrutura e segurança cibernética.
+Durante a construção de novos projetos, incluindo um ERP, colaborei com as equipes na reavaliação de seus processos, buscando reduzir a burocracia e aumentar a produtividade tanto das atividades quanto dos sistemas de apoio.
 
-Responsável pela implementação de serviços como Virtualização, Firewall, Controlador de Domínio, Backups, Zabbix, Sitrad entre outros.
-
-Tenho foco em segurança cibernética, orientando a equipe sobre sua importância e criando objetivos, afim de reduzir os riscos.
 
 <!--<div align="center">
   <a href="https://github.com/Ricmaloy">
